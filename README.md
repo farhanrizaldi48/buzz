@@ -18,7 +18,7 @@ Buzz Auto Farming adalah bot otomatis untuk menyelesaikan berbagai aktivitas far
 
 ### **Format `hash.txt`**
 ```
-query:access_token
+query|access_token
 ```
 
 ### **Cara Mendapatkan Access Token**
