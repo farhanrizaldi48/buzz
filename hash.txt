@@ -1,6 +1,5 @@
-query:access_token
-query:access_token
-query:access_token
-query:access_token
-query:access_token
-query:access_token
+query|access_token
+query|access_token
+query|access_token
+query|access_token
+query|access_token
