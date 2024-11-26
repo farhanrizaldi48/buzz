@@ -2,6 +2,8 @@
 
 Buzz Auto Farming adalah bot otomatis untuk menyelesaikan berbagai aktivitas farming secara efisien, dengan dukungan multi-akun dan fitur lengkap untuk kenyamanan Anda.
 
+Link : https://t.me/buzz_mine_bot/buzz_app?startapp=gIUk5Q
+
 ---
 
 ## **Fitur**  
